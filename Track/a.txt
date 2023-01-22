@@ -1,5 +1,4 @@
 BveTs Map 2.02
-Signal.Load("");
 0;
     Repeater['repeaterKey'].Begin('trackKey',x,y,z,rx,ry,rz,tilt,span,interval,'structureKey');
 
