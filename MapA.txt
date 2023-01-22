@@ -1,0 +1,14 @@
+BveTs Map 2.02
+
+        Structure.Load('structureList.txt');
+        Sound.Load('sounds.txt');
+        Sound3D.Load('Sounds3D.txt');
+        Signal.Load('signals.txt');
+        Station.Load('stationA.txt');
+        Signal.SpeedLimit(0,25,55,75,);
+
+#このファイルはファイルの場所について定義しています。基本的には何も変更しないでください。
+       
+
+include 'MapB.txt';
+include 'MapC.txt';
