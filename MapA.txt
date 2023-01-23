@@ -12,3 +12,4 @@ BveTs Map 2.02
 
 include 'MapB.txt';
 include 'MapC.txt';
+include 'MapSection.txt';
