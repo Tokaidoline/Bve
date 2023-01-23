@@ -43,3 +43,87 @@ roof4,Structure\駅関係\roof4.x
 pole1,Structure\駅関係\pole1.x
 pole2,Structure\駅関係\pole2.x
 pole3,Structure\駅関係\pole3.x
+
+//FCS_TM
+#信号柱
+Sig_Pole     ,Structures\FCS_TM\SigPole\Sig_Pole.x
+Sig_Base     ,Structures\FCS_TM\SigPole\Sig_Base.x
+Sig_Base_Step,Structures\FCS_TM\SigPole\Sig_Base_Step.x
+SigBasket    ,Structures\FCS_TM\SigPole\SigBasket.x
+SigBasket2   ,Structures\FCS_TM\SigPole\SigBasket2.x
+Sig_Arm_SU   ,Structures\FCS_TM\SigPole\Back_Arm_SU.x
+Sig_Arm_SD   ,Structures\FCS_TM\SigPole\Back_Arm_SD.x
+Sig_Arm_MU   ,Structures\FCS_TM\SigPole\Back_Arm_MU.x
+Sig_Arm_MD   ,Structures\FCS_TM\SigPole\Back_Arm_MD.x
+Sig_Arm_LU   ,Structures\FCS_TM\SigPole\Back_Arm_LU.x
+Sig_Arm_LD   ,Structures\FCS_TM\SigPole\Back_Arm_LD.x
+
+
+#
+
+#信号(LED式)
+#3灯式
+Sig3N_LED    ,Structures\FCS_TM\ColorSignal\Sig3bN_LED.x
+Sig30_LED    ,Structures\FCS_TM\ColorSignal\Sig3b0_LED.x
+Sig32_LED    ,Structures\FCS_TM\ColorSignal\Sig3b2_LED.x
+Sig34_LED    ,Structures\FCS_TM\ColorSignal\Sig3b4_LED.x
+Sig3GxN_LED  ,Structures\FCS_TM\ColorSignal\Sig3bGxN_LED.x
+Sig3Gx0_LED  ,Structures\FCS_TM\ColorSignal\Sig3bGx0_LED.x
+Sig3Gx2_LED  ,Structures\FCS_TM\ColorSignal\Sig3bGx2_LED.x
+Sig3YxN_LED  ,Structures\FCS_TM\ColorSignal\Sig3bYxN_LED.x
+Sig3Yx0_LED  ,Structures\FCS_TM\ColorSignal\Sig3bYx0_LED.x
+Sig3Yx4_LED  ,Structures\FCS_TM\ColorSignal\Sig3bYx4_LED.x
+
+#4灯式(YY現示)
+Sig4yyN_LED  ,Structures\FCS_TM\ColorSignal\Sig4byyN_LED.x
+Sig4yy0_LED  ,Structures\FCS_TM\ColorSignal\Sig4byy0_LED.x
+Sig4yy1_LED  ,Structures\FCS_TM\ColorSignal\Sig4byy1_LED.x
+Sig4yy2_LED  ,Structures\FCS_TM\ColorSignal\Sig4byy2_LED.x
+Sig4yy4_LED  ,Structures\FCS_TM\ColorSignal\Sig4byy4_LED.x
+
+#4灯式(YG現示)
+Sig4ygN_LED  ,Structures\FCS_TM\ColorSignal\Sig4bygN_LED.x
+Sig4yg0_LED  ,Structures\FCS_TM\ColorSignal\Sig4byg0_LED.x
+Sig4yg2_LED  ,Structures\FCS_TM\ColorSignal\Sig4byg2_LED.x
+Sig4yg3_LED  ,Structures\FCS_TM\ColorSignal\Sig4byg3_LED.x
+Sig4yg4_LED  ,Structures\FCS_TM\ColorSignal\Sig4byg4_LED.x
+Sig4EN_LED   ,Structures\FCS_TM\ColorSignal\Sig4EbN_LED.x
+Sig4E2_LED   ,Structures\FCS_TM\ColorSignal\Sig4Eb2_LED.x
+Sig4E3_LED   ,Structures\FCS_TM\ColorSignal\Sig4Eb3_LED.x
+Sig4E4_LED   ,Structures\FCS_TM\ColorSignal\Sig4Eb4_LED.x
+
+#5灯式
+Sig5N_LED    ,Structures\FCS_TM\ColorSignal\Sig5bN_LED.x
+Sig50_LED    ,Structures\FCS_TM\ColorSignal\Sig5b0_LED.x
+Sig51_LED    ,Structures\FCS_TM\ColorSignal\Sig5b1_LED.x
+Sig52_LED    ,Structures\FCS_TM\ColorSignal\Sig5b2_LED.x
+Sig53_LED    ,Structures\FCS_TM\ColorSignal\Sig5b3_LED.x
+Sig54_LED    ,Structures\FCS_TM\ColorSignal\Sig5b4_LED.x
+
+Relay0       ,Structures\FCS_TM\RelaySignal\Relay0.x
+Relay1       ,Structures\FCS_TM\RelaySignal\Relay1.x
+Relay4       ,Structures\FCS_TM\RelaySignal\Relay4.x
+
+
+Relay0_LED   ,Structures\FCS_TM\RelaySignal\Relay0_LED.x
+Relay1_LED   ,Structures\FCS_TM\RelaySignal\Relay1_LED.x
+Relay4_LED   ,Structures\FCS_TM\RelaySignal\Relay4_LED.x
+FlareR0      ,Structures\FCS_TM\RelaySignal\FlareR0.x
+FlareR1      ,Structures\FCS_TM\RelaySignal\FlareR1.x
+FlareR4      ,Structures\FCS_TM\RelaySignal\FlareR4.x
+
+
+SigI0W       ,Structures\FCS_TM\SwitchSig\SigSb_0W.x 
+SigI0R       ,Structures\FCS_TM\SwitchSig\SigSb_0R.x 
+SigI4        ,Structures\FCS_TM\SwitchSig\SigSb_4.x
+SigI0W_LED   ,Structures\FCS_TM\SwitchSig\SigSb_0W_LED.x
+SigI0R_LED   ,Structures\FCS_TM\SwitchSig\SigSb_0R_LED.x
+SigI4_LED    ,Structures\FCS_TM\SwitchSig\SigSb_4_LED.x
+SigI_Arm     ,Structures\FCS_TM\SwitchSig\SigSb_Arm.x
+
+
+Sigib_off    ,Structures\FCS_TM\SwitchSig\Sigib_off.x
+Sigib_on     ,Structures\FCS_TM\SwitchSig\Sigib_on.x
+Sigib_off_LED,Structures\FCS_TM\SwitchSig\Sigib_off_LED.x
+Sigib_on_LED ,Structures\FCS_TM\SwitchSig\Sigib_on_LED.x
+
