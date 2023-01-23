@@ -2,12 +2,6 @@ BveTs Signal Aspects List 2.00
 #3灯式
 Type3_LED,     Sig30_LED,,               Sig32_LED,,               Sig34_LED
          ,       Flare30,,                 Flare32,,                 Flare34
-#3灯式(GR型)
-Type3gr_LED, Sig3Yx0_LED,,,,                                     Sig3Yx4_LED
-           ,     Flare30,,,,                                         Flare34
-#3灯式(YR型)
-Type3yr_LED, Sig3Gx0_LED,,             Sig3Gx2_LED,,
-           ,     Flare30,,                 Flare22,,
 #4灯式(警戒)
 Type4yy_LED, Sig4yy0_LED, Sig4yy1_LED, Sig4yy2_LED,,             Sig4yy4_LED
            ,   Flare4yy0,   Flare4yy1,   Flare4yy2,,               Flare4yy4
