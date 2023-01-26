@@ -55,5 +55,5 @@ Section.SetSpeedLimit(0,25,55,75,100);
 101025;
     Beacon.Put(0,1,0);//小菅場内P1地上子
 101040;
-    Section.Begin(0,1,2,3,4);//小菅場内
+    Section.Begin(0,2,4);//小菅場内
     Signal['Type3_LED'].Put(1,'0',-3,3.8,-0.06,0,0,0,0,5);//小菅場内信号機
