@@ -36,7 +36,7 @@ BveTs Map 2.02
     Beacon.Put(1030,0,500000);//梅島tascパターン発生
     Beacon.Put(14,0,0);//ホームドア非連動
     Beacon.Put(11,0,1);//梅島ドア開扉情報
-    Beacon.Put(10,0,11);//梅島
+    Beacon.Put(10,0,12);//梅島
 103710;
     Beacon.Put(1030,0,50000);//梅島tascパターン更新
 103750;
@@ -48,7 +48,7 @@ BveTs Map 2.02
     Beacon.Put(1030,0,500000);//西新井tascパターン発生
     Beacon.Put(14,0,0);//ホームドア非連動
     Beacon.Put(11,0,2);//西新井ドア開扉情報
-    Beacon.Put(10,0,12);//西新井
+    Beacon.Put(10,0,13);//西新井
 104530;
     Beacon.Put(1030,0,50000);//西新井tascパターン更新
 104570;
