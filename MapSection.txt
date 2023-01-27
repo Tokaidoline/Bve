@@ -93,6 +93,10 @@ Section.SetSpeedLimit(0,25,55,75,100);
 102240;
     Section.Begin(0,1,2,4);
     Signal['Type4yy_LED'].Put(1,'0',-3,3.8,-0.06,0,0,0,0,5);//五反野場内
+102250;
+    Beacon.Put(1,1,0);//五反野出発P2地上子
+102406;
+    Beacon.Put(0,1,0);//五反野出発P1地上子
 102430;
     Section.Begin(0,2,3,4);
     Signal['Type4yg_LED'].Put(1,'0',-3,3.8,-0.06,0,0,0,0,5);//五反野出発
