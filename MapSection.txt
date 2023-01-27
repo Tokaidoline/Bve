@@ -57,3 +57,6 @@ Section.SetSpeedLimit(0,25,55,75,100);
 101040;
     Section.Begin(0,2,4);//小菅場内
     Signal['Type3_LED'].Put(1,'0',-3,3.8,-0.06,0,0,0,0,5);//小菅場内信号機
+101280;
+	Section.Begin(0,2,4);
+	Signal['Type3_LED'].Put(1,'0',-3,3.8,-0.06,0,0,0,0,5);
